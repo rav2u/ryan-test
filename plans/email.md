@@ -1,3 +1,1 @@
-Send email to Kase
-Send email to Milos
-Send email to Coworkers
+Send emails to Kase, Milos, and Coworkers.
